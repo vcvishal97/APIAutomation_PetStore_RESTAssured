@@ -1,0 +1,42 @@
+2024-11-22 07:23:35,880(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** preparing payload ***
+2024-11-22 07:23:35,891(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** creating user ***
+2024-11-22 07:23:40,249(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** created user ***
+2024-11-22 07:23:40,261(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** preparing payload ***
+2024-11-22 07:23:40,262(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** creating user ***
+2024-11-22 07:23:41,391(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** created user ***
+2024-11-22 07:23:41,395(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** preparing payload ***
+2024-11-22 07:23:41,395(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** creating user ***
+2024-11-22 07:23:42,579(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** created user ***
+2024-11-22 07:23:42,583(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** preparing payload ***
+2024-11-22 07:23:42,584(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** creating user ***
+2024-11-22 07:23:43,752(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** created user ***
+2024-11-22 07:23:43,756(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** preparing payload ***
+2024-11-22 07:23:43,757(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** creating user ***
+2024-11-22 07:23:44,872(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** created user ***
+2024-11-22 07:23:44,894(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-22 07:23:44,896(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-22 07:23:44,898(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-11-22 07:23:44,939(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** getting user ***
+2024-11-22 07:23:46,321(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** got user ***
+2024-11-22 07:23:46,325(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** getting user ***
+2024-11-22 07:23:47,474(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** got user ***
+2024-11-22 07:23:47,476(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** getting user ***
+2024-11-22 07:23:48,605(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** got user ***
+2024-11-22 07:23:48,610(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** getting user ***
+2024-11-22 07:23:49,762(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** got user ***
+2024-11-22 07:23:49,774(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** getting user ***
+2024-11-22 07:23:50,849(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** got user ***
+2024-11-22 07:23:50,865(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-11-22 07:23:50,866(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-11-22 07:23:50,868(HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection Parsing relationship: /_rels/.rels
+2024-11-22 07:23:50,908(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** deleting user ***
+2024-11-22 07:23:52,063(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** deleted user ***
+2024-11-22 07:23:52,066(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** deleting user ***
+2024-11-22 07:23:53,154(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** deleted user ***
+2024-11-22 07:23:53,157(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** deleting user ***
+2024-11-22 07:23:54,315(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** deleted user ***
+2024-11-22 07:23:54,318(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** deleting user ***
+2024-11-22 07:23:55,474(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** deleted user ***
+2024-11-22 07:23:55,478(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** deleting user ***
+2024-11-22 07:23:56,648(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** deleted user ***
+2024-11-22 07:23:56,654(HH:mm:ss.SSS) [main] INFO  api.tests.DataDrivenTests *** test completed ***
